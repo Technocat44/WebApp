@@ -6,7 +6,7 @@ class MyTCPHandler(socketserver.BaseRequestHandler):
 
     It is instantiated once per connection to the server, and must
     override the handle() method to implement communication to the
-    client.
+    client.   f
     
     '''
 
