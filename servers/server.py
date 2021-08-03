@@ -6,9 +6,11 @@ class MyTCPHandler(socketserver.BaseRequestHandler):
 
     It is instantiated once per connection to the server, and must
     override the handle() method to implement communication to the
-    client.   f
+    client.  yes
+
     
     '''
+    
 
     def handle(self):
         # self.request is the TCP socket connected to the client
