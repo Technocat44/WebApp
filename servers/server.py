@@ -8,7 +8,8 @@ class MyTCPHandler(socketserver.BaseRequestHandler):
     override the handle() method to implement communication to the
     client.  
 
-    Here I am trying to get the VCS to work correctly 
+    Here I am trying to get the VCS to work correctly.
+    This is my attempt on 8/7/21
     '''
     
 
